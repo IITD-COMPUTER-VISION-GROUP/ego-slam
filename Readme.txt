@@ -1,6 +1,6 @@
 This code is not to be used for any commercial purposes. Using it is limited to ACADEMIC USE ONLY
 
-Requirements: Matlab
+Requirements: Matlab 2016 +
 
 Precompiled libraries for Opencv, Ceres are included for Windows OS 
 
